@@ -6,13 +6,7 @@
         <h4  align="center"  style="width: 45%">
         I was always fascinated by the it world, until I took my life in hand and started studying website programming. I have now become a full Stack Jr having learned several technologies both frontend and backend.
         </h4>
-        <h4  align="center"  style="width: 45%">
-        I was always fascinated by the it world, until I took my life in hand and started studying website programming. I have now become a full Stack Jr having learned several technologies both frontend and backend.
-<!--             <img align="center" width="100%" src="https://github.com/VALDEV05/VALDEV05/blob/main/assets/tools.svg" />
- -->        </h4>
     </div>
-
-
 </div>
 
 <!--
